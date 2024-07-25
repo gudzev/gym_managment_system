@@ -16,6 +16,3 @@ Password: gudzev
 
 Username: admin  
 Password: admin
-
-##
-Additional notes: Responsive is really bad
