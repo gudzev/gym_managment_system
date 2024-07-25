@@ -16,3 +16,8 @@ Password: gudzev
 
 Username: admin  
 Password: admin
+
+## Things left to do
+
+- [x] Fix responsive design
+
