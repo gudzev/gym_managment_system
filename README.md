@@ -19,5 +19,5 @@ Password: admin
 
 ## Things left to do
 
-- [x] Fix responsive design
+- [ ] Fix responsive design
 
